@@ -1,6 +1,6 @@
 {
   "name": "gun-annoyance-remove",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Removes the console log from gundb beause it's rude to put involuntary console logs in library code",
   "main": "index.js",
   "scripts": {
