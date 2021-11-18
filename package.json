@@ -1,0 +1,17 @@
+{
+  "name": "gun-annoyance-remove",
+  "version": "1.0.3",
+  "description": "Removes the console log from gundb beause it's rude to put involuntary console logs in library code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gun-annoyance-remove": "./index.js"
+  },
+  "author": "gun-annoyance-remove",
+  "license": "ISC",
+  "devDependencies": {
+    "gun": "^0.2020.1235"
+  }
+}
