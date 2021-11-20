@@ -1,5 +1,5 @@
 # gun-annoyance-remove
-Removes the console log from gundb beause it's rude to put involuntary console logs in library code
+Removes the console log from gundb beause according to the terms set by the author
 
 Add this package to your devDependencies and call it from postinstall to remove the console logs.
 
